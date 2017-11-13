@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "522246549162",
+    "firebase_url": "https://androidhive-3ef2c.firebaseio.com",
+    "project_id": "androidhive-3ef2c",
+    "storage_bucket": "androidhive-3ef2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522246549162:android:ac68d0581a2b039a",
+        "android_client_info": {
+          "package_name": "androidhive.brahem.androidfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522246549162-gp7ps1sjqpovv2h8pi430702ugvbp42n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2nXTmVZruehrAu3odeWtf4SfqfWC44I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
